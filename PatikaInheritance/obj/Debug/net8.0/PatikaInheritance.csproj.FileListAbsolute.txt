@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/bin/Debug/net8.0/PatikaInheritance
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/bin/Debug/net8.0/PatikaInheritance.deps.json
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/bin/Debug/net8.0/PatikaInheritance.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/bin/Debug/net8.0/PatikaInheritance.dll
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/bin/Debug/net8.0/PatikaInheritance.pdb
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/obj/Debug/net8.0/PatikaInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/obj/Debug/net8.0/PatikaInheritance.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/obj/Debug/net8.0/PatikaInheritance.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/obj/Debug/net8.0/PatikaInheritance.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/obj/Debug/net8.0/PatikaInheritance.dll
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/obj/Debug/net8.0/refint/PatikaInheritance.dll
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/obj/Debug/net8.0/PatikaInheritance.pdb
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/obj/Debug/net8.0/PatikaInheritance.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/PatikaInheritance/PatikaInheritance/obj/Debug/net8.0/ref/PatikaInheritance.dll
